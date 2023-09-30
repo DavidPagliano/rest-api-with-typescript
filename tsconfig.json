@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "Node",
+        "module": "ES2020",
+        "baseUrl": "src",
+        "outDir": "dist",
+        "sourceMap": true,
+        "noImplicitAny": true
+    },
+    "include": ["src/**/*",],
+}
